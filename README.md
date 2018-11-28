@@ -54,7 +54,7 @@ vagrant up
 vagrant vbguest --auto-reboot
 ```
 
-5. 进行虚拟机
+5. 进入虚拟机
 ``` shell
 vagrant ssh
 ```
