@@ -18,7 +18,7 @@
 > [VirtualBox下载地址](https://www.virtualbox.org/wiki/Downloads)
 
 ## 使用方式
-1. 进入本地项目目录(需要共享进虚拟机的目录)
+1. 进入本地工作目录(需要共享进虚拟机的目录)
 2. 执行以下命令
 ```shell
 #安装vagrant插件
